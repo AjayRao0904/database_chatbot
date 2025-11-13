@@ -1,0 +1,44 @@
+# Core Dependencies
+python-dotenv==1.0.0
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Database
+psycopg2-binary==2.9.9
+sqlalchemy==2.0.23
+
+# Data Download
+kaggle==1.5.16
+
+# LLM & Agents
+openai>=1.0.0
+langchain>=0.1.0
+langchain-openai>=0.0.2
+langchain-community>=0.0.10
+langgraph>=0.0.20
+replicate>=0.25.0
+
+# Additional AI Tools
+anthropic>=0.8.0
+google-generativeai>=0.3.0
+
+# Web Search & External Knowledge
+google-search-results==2.4.2
+beautifulsoup4==4.12.2
+requests==2.31.0
+
+# Visualization
+plotly>=5.0.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Voice Input
+SpeechRecognition==3.10.1
+pydub==0.25.1
+
+# Geocoding
+geopy==2.4.1
+
+# Utilities
+tqdm==4.66.1
+pyyaml==6.0.1
